@@ -3,6 +3,11 @@
 ## Description
 This is the COVID19 Tracker website, where we are supposed to display the statistics by fetching it from the standard API. The details will be fetched and displayed over the website in a user friendly way.
 
+## API to be USed
+- Novel COVID19 API
+  - [Docs](https://disease.sh/docs)
+  - [API](https://disease.sh/v2/all)
+
 #### Frontend
 - Good UI to attract people
 - Mobile Friendly Website
